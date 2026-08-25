@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  https://github.com/SEU_USERNAME
+  https://github.com/goncalomaia18
     https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge
   </a>
 </p>
