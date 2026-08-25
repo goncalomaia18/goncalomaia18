@@ -6,7 +6,7 @@
 
 <p align="center">
   https://github.com/goncalomaia18
-    https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge
+    https://komarev.com/ghpvc/?username=goncalomaia18&label=Profile+Views&color=0e75b6&style=for-the-badge
   </a>
 </p>
 
@@ -53,8 +53,8 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true
+  https://github-readme-stats.vercel.app/api?username=goncalomaia18&show_icons=true&theme=tokyonight&hide_border=true
+  https://github-readme-stats.vercel.app/api/top-langs/?username=goncalomaia18&layout=compact&theme=tokyonight&hide_border=true
 </p>
 
 <p align="center">
