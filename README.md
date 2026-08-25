@@ -1,13 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gonçalo Maia</h1>
 
 <p align="center">
-  🚀 Trainee Developer | 💡 Technology Enthusiast | 🌱 Always Learning
-</p>
-
-<p align="center">
-  https://github.com/goncalomaia18
-    https://komarev.com/ghpvc/?username=goncalomaia18&label=Profile+Views&color=0e75b6&style=for-the-badge
-  </a>
+  🚀 Freelancer Developer | 💡 Technology Enthusiast | 🌱 Always Learning
 </p>
 
 ---
@@ -25,7 +19,7 @@
 
 ### Linguagens
 <p>
-  https://skillicons.dev/icons?i=js,ts,python,java,cs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />         
 </p>
 
 ### Frontend
